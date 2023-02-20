@@ -16,7 +16,8 @@
 
 ### My articles
  Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
-    - [稀土掘金](https://juejin.cn/user/1852022288029063)
-    - [博客项目](https://sunquan96.github.io/blog-vue)
+  - [稀土掘金](https://juejin.cn/user/1852022288029063/posts)
+
+  - [博客项目](https://sunquan96.github.io/blog-vue)
 
 
