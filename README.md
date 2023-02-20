@@ -17,6 +17,6 @@
 ### My articles
  Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
     - [稀土掘金](https://juejin.cn/user/1852022288029063)
-    - [博客项目](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
+    - [博客项目](https://sunquan96.github.io/blog-vue)
 
 
