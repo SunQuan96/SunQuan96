@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🤓 I'm Sunquan, a Content Strategist | Front-end engineer.
+ 🤓 I'm Sun, a Content Strategist | Front-end engineer.
  
  I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 ([a Lv5 VIP at bilibili 哔哩哔哩](https://space.bilibili.com/102302837/audio)).
  
